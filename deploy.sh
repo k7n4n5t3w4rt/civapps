@@ -1,4 +1,4 @@
-hexo generate
+npm run build
 cp -rp _site/* docs/
 git add .
 git commit -m"Deploying to GitHub Pages"
