@@ -7,7 +7,7 @@
   "googleAnalyticsId": "GA ID. Update me",
   "sendWebVitals": false,
   "feed": {
-    "subtitle": "#art #technology #design",
+    "subtitle": "Experiments in art and technology",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://civilianapplications.com.au"
@@ -17,8 +17,8 @@
     "url": "https://civilianapplications.com.au/feed/feed.json"
   },
   "author": {
-    "name": "Kynan Hughes & Tim Kreibig",
-    "twitterHandle": "@civilianapplications"
+    "name": "CivApps is Kynan Hughes & Tim Kreibig",
+    "twitterHandle": "@civ_apps"
   },
   "publisher": {
     "name": "Civilian Applications"

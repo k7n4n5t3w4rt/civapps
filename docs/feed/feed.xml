@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>Civilian Applications</title>
-	<subtitle>#art #technology #design</subtitle>
+	<subtitle>Experiments in art and technology</subtitle>
 	
 	<link href="https://civilianapplications.com.au/feed/feed.xml" rel="self"/>
 	<link href="https://civilianapplications.com.au"/>
 	<updated>2020-10-01T10:00:00+10:00</updated>
 	<id>https://civilianapplications.com.au</id>
 	<author>
-		<name>Kynan Hughes &amp; Tim Kreibig</name>
+		<name>CivApps is Kynan Hughes &amp; Tim Kreibig</name>
 		<email></email>
 	</author>
 	
