@@ -7,6 +7,4 @@ eleventyNavigation:
   order: 3
 ---
 
-I am a person that writes stuff.
-
-This blog template is based on [eleventy-high-performance-blog](https://www.industrialempathy.com/posts/eleventy-high-performance-blog/) which itself is based on [eleventy-base-blog](https://github.com/11ty/eleventy-base-blog).
+Civilian Applications is a collaboration between Tim Kreibig and Kynan Hughes. Spatial, sculptural, spectral, filmic, conceptual and poetic - CivApps artworks sit in the augmented space between the digital and the real, inviting us to think critically about our contemporary world and what we might be in the process of becoming.
