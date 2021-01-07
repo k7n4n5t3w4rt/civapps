@@ -1,3 +1,4 @@
+rm -rf _site
 mv docs/CNAME ./
 rm -rf docs
 npm run build
